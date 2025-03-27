@@ -10,7 +10,7 @@ Attention Mechanisms: Elevating News Topic Classification Beyond LSTMs
 
 ### Run It
 - Hit **"Runtime > Run All"** (or `Ctrl+F9`)
-- Takes ~5-10 minutes(depends on Colab's free GPUC/CPU)
+- Takes ~5-10 minutes(depends on Colab's free GPU/CPU)
 
 ### Outputs
 - `accuracy.png` (containing **Accuracy: Vanilla vs. Attention LSTM**) and `attention_weights.png` (containing Attention Weights)
